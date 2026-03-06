@@ -86,7 +86,51 @@ Below is the preview of the Power BI dashboard created in this project.
 
 ## 💡 Key Insights
 
-This dashboard helps businesses understand **sales trends, campaign effectiveness, and client engagement patterns**, enabling better strategic decision-making and improved sales follow-up management.
+1️⃣ Sales Performance Trend
+
+Insight:
+The dashboard highlights overall sales performance trends over time, helping identify growth patterns, seasonal spikes, and potential revenue decline periods.
+
+2️⃣ Top Performing Clients
+
+Insight:
+Client-level analysis identifies the highest revenue-generating customers, allowing businesses to focus on maintaining strong relationships with their most valuable clients.
+
+3️⃣ Product / Service Contribution
+
+Insight:
+The analysis reveals which products or services contribute the most to total sales, enabling better decision-making for inventory planning and marketing focus.
+
+4️⃣ Follow-up Management Efficiency
+
+Insight:
+The follow-up tracking system highlights pending and completed client interactions, ensuring no important customer communication is missed.
+
+5️⃣ Priority-Based Task Monitoring
+
+Insight:
+The priority classification (High, Medium, Low) helps teams quickly identify urgent tasks and manage workload effectively.
+
+✅ Example README section
+
+## Key Insights
+
+1. Sales trends reveal monthly performance patterns and revenue fluctuations.
+2. Client analysis highlights top-performing customers contributing the most revenue.
+3. Product-level insights identify the most profitable products/services.
+4. Follow-up tracking ensures better client communication management.
+5. Priority-based classification helps teams focus on urgent tasks first.
+
+
+💡 Krushna, जर तू Data Analyst / Power BI role साठी GitHub portfolio बनवत असशील, तर मी तुला अजून देऊ शकतो:
+
+10 strong business insights (industry level)
+
+Professional project description
+
+Power BI project architecture section
+
+जे recruiters ला खूप impress करतात.
 
 ---
 
