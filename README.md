@@ -79,7 +79,7 @@ The dashboard provides business insights such as:
 
 Below is the preview of the Power BI dashboard created in this project.
 
-![Power BI Dashboard]()
+![Power BI Dashboard](sales_performance_dashbord.PNG)
 
 > Note: Replace `dashboard-preview.png` with your actual dashboard screenshot file name uploaded in this repository.
 
